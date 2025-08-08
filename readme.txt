@@ -8,6 +8,7 @@ esc ------------------- quit
 
 
 
-
-
 Note: made by using ChatGPT
+C++,OpenGL
+No game engine was used
+All resources were from online, so some may be copyrighted 
